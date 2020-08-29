@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d029822f0df8240688a852763f7bf81a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 128
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Wasabi
+  fontNames:
+  - Wasabi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2a64183e5c664b22826c849629cb3e4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
